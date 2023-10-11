@@ -1,4 +1,3 @@
-# JD_Interview_Prep
 # ALL Topics Questions
 
 # Table of contents
